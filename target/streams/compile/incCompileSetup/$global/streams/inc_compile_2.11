@@ -1,0 +1,354 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/kato/Documents/kmeans/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+18 items
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> /Users/kato/Documents/kmeans/target/scala-2.11/classes/common/package$.class
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> /Users/kato/Documents/kmeans/target/scala-2.11/classes/common/package$DefaultTaskScheduler$$anon$1.class
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> /Users/kato/Documents/kmeans/target/scala-2.11/classes/common/package$DefaultTaskScheduler.class
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> /Users/kato/Documents/kmeans/target/scala-2.11/classes/common/package$TaskScheduler.class
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> /Users/kato/Documents/kmeans/target/scala-2.11/classes/common/package.class
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> /Users/kato/Documents/kmeans/target/scala-2.11/classes/kmeans/KMeans$$anonfun$1.class
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> /Users/kato/Documents/kmeans/target/scala-2.11/classes/kmeans/KMeans$$anonfun$2.class
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> /Users/kato/Documents/kmeans/target/scala-2.11/classes/kmeans/KMeans$$anonfun$classify$1.class
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> /Users/kato/Documents/kmeans/target/scala-2.11/classes/kmeans/KMeans$$anonfun$classify$2.class
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> /Users/kato/Documents/kmeans/target/scala-2.11/classes/kmeans/KMeans$$anonfun$converged$1.class
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> /Users/kato/Documents/kmeans/target/scala-2.11/classes/kmeans/KMeans$$anonfun$findAverage$1.class
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> /Users/kato/Documents/kmeans/target/scala-2.11/classes/kmeans/KMeans$$anonfun$generatePoints$1.class
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> /Users/kato/Documents/kmeans/target/scala-2.11/classes/kmeans/KMeans$$anonfun$initializeMeans$1.class
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> /Users/kato/Documents/kmeans/target/scala-2.11/classes/kmeans/KMeans$$anonfun$update$1.class
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> /Users/kato/Documents/kmeans/target/scala-2.11/classes/kmeans/KMeans$.class
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> /Users/kato/Documents/kmeans/target/scala-2.11/classes/kmeans/KMeans$class.class
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> /Users/kato/Documents/kmeans/target/scala-2.11/classes/kmeans/KMeans.class
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> /Users/kato/Documents/kmeans/target/scala-2.11/classes/kmeans/Point.class
+binary dependencies:
+5 items
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/rt.jar
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> /Users/kato/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/rt.jar
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> /Users/kato/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/storm-enroute/scalameter-core_2.11/0.6/scalameter-core_2.11-0.6.jar
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> /Users/kato/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+18 items
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> common.package
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> common.package$
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> common.package$DefaultTaskScheduler
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> common.package$DefaultTaskScheduler$$anon$1
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> common.package$TaskScheduler
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> kmeans.KMeans
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> kmeans.KMeans$
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> kmeans.KMeans$$anonfun$1
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> kmeans.KMeans$$anonfun$2
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> kmeans.KMeans$$anonfun$classify$1
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> kmeans.KMeans$$anonfun$classify$2
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> kmeans.KMeans$$anonfun$converged$1
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> kmeans.KMeans$$anonfun$findAverage$1
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> kmeans.KMeans$$anonfun$generatePoints$1
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> kmeans.KMeans$$anonfun$initializeMeans$1
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> kmeans.KMeans$$anonfun$update$1
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> kmeans.KMeans$class
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> kmeans.Point
+used names:
+216 items
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> $anon
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> <byname>
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> <init>
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> ?0
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> A
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> Any
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> AnyRef
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> B
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> Boolean
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> C
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> D
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> DefaultTaskScheduler
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> DynamicVariable
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> ForkJoinPool
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> ForkJoinTask
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> Nothing
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> Object
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> RecursiveTask
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> T
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> T1
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> T2
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> T3
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> T4
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> TaskScheduler
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> Thread
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> Tuple2
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> Tuple4
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> Unit
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> _root_
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> body
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> common
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> concurrent
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> currentThread
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> execute
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> fork
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> forkJoinPool
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> isInstanceOf
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> java
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> join
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> lang
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> left
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> package
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> parallel
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> right
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> scala
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> schedule
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> scheduler
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> t
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> ta
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> task
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> taskA
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> taskB
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> taskC
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> taskD
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> tb
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> tc
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> td
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> util
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> value
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> $conforms
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> %
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> *
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> +
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> ++
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> -
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> ->
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> /
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> <
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> <:<
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> <=
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> <byname>
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> <init>
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> <repeated>
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> A
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> A1
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> Any
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> AnyRef
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> Array
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> ArrayBuffer
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> ArrowAssoc
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> B
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> Boolean
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> CanBuildFrom
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> Col
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> Coll
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> Default
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> Double
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> Function1
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> GenIterable
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> GenMap
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> GenSeq
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> GenTraversableOnce
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> GenericCanBuildFrom
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> IndexedSeq
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> Int
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> K
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> KMeans
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> Key
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> KeyValue
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> KeyWithDefault
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> MatchError
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> MeasureBuilder
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> Nothing
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> Object
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> ParSeq
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> Point
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> Predef
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> Random
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> Range
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> RichInt
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> S
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> Seq
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> String
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> StringContext
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> T1
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> T2
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> T3
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> That
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> Tuple2
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> Tuple3
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> U
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> Unit
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> V
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> Warmer
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> _1
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> _2
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> _3
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> annotation
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> apply
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> assert
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> benchRuns
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> canBuildFrom
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> classified
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> classify
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> closest
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> collection
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> config
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> converged
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> distance
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> eta
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> exec
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> findAverage
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> findClosest
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> forall
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> foreach
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> generatePoints
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> groupBy
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> head
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> i
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> immutable
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> initializeMeans
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> intWrapper
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> isEmpty
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> k
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> kMeans
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> kmeans
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> length
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> m
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> map
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> maxWarmupRuns
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> means
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> measure
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> minDistance
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> minWarmupRuns
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> mutable
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> n
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> ne
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> newMeans
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> nextDouble
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> nextInt
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> nonEmpty
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> num
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> numPoints
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> o
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> oldMean
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> oldMeans
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> org
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> p
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> package
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> par
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> parMeans
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> parPoints
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> partime
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> points
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> println
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> rand
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> randx
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> randy
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> randz
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> round
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> s
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> scala
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> scalameter
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> seq
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> seqtime
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> square
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> squareDistance
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> standardConfig
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> tailrec
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> that
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> to
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> toInt
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> toMap
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> unchecked
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> until
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> update
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> updatedMeans
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> util
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> v
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> verbose
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> while$1
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> withWarmer
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> x
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> y
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> z
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> zip
+product stamps:
+18 items
+/Users/kato/Documents/kmeans/target/scala-2.11/classes/common/package$.class -> lastModified(1590105495000)
+/Users/kato/Documents/kmeans/target/scala-2.11/classes/common/package$DefaultTaskScheduler$$anon$1.class -> lastModified(1590105495000)
+/Users/kato/Documents/kmeans/target/scala-2.11/classes/common/package$DefaultTaskScheduler.class -> lastModified(1590105495000)
+/Users/kato/Documents/kmeans/target/scala-2.11/classes/common/package$TaskScheduler.class -> lastModified(1590105495000)
+/Users/kato/Documents/kmeans/target/scala-2.11/classes/common/package.class -> lastModified(1590105495000)
+/Users/kato/Documents/kmeans/target/scala-2.11/classes/kmeans/KMeans$$anonfun$1.class -> lastModified(1590105495000)
+/Users/kato/Documents/kmeans/target/scala-2.11/classes/kmeans/KMeans$$anonfun$2.class -> lastModified(1590105495000)
+/Users/kato/Documents/kmeans/target/scala-2.11/classes/kmeans/KMeans$$anonfun$classify$1.class -> lastModified(1590105495000)
+/Users/kato/Documents/kmeans/target/scala-2.11/classes/kmeans/KMeans$$anonfun$classify$2.class -> lastModified(1590105495000)
+/Users/kato/Documents/kmeans/target/scala-2.11/classes/kmeans/KMeans$$anonfun$converged$1.class -> lastModified(1590105495000)
+/Users/kato/Documents/kmeans/target/scala-2.11/classes/kmeans/KMeans$$anonfun$findAverage$1.class -> lastModified(1590105495000)
+/Users/kato/Documents/kmeans/target/scala-2.11/classes/kmeans/KMeans$$anonfun$generatePoints$1.class -> lastModified(1590105495000)
+/Users/kato/Documents/kmeans/target/scala-2.11/classes/kmeans/KMeans$$anonfun$initializeMeans$1.class -> lastModified(1590105495000)
+/Users/kato/Documents/kmeans/target/scala-2.11/classes/kmeans/KMeans$$anonfun$update$1.class -> lastModified(1590105495000)
+/Users/kato/Documents/kmeans/target/scala-2.11/classes/kmeans/KMeans$.class -> lastModified(1590105495000)
+/Users/kato/Documents/kmeans/target/scala-2.11/classes/kmeans/KMeans$class.class -> lastModified(1590105495000)
+/Users/kato/Documents/kmeans/target/scala-2.11/classes/kmeans/KMeans.class -> lastModified(1590105495000)
+/Users/kato/Documents/kmeans/target/scala-2.11/classes/kmeans/Point.class -> lastModified(1590105495000)
+source stamps:
+2 items
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> hash(19ffe96b09c84ba566e866c51bacad3b301b2c11)
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> hash(8e99e196bf1dce80f2cd199d2b385c0f3f34710e)
+binary stamps:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1544928886000)
+/Users/kato/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/storm-enroute/scalameter-core_2.11/0.6/scalameter-core_2.11-0.6.jar -> lastModified(1405518657000)
+/Users/kato/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/kato/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/storm-enroute/scalameter-core_2.11/0.6/scalameter-core_2.11-0.6.jar -> org.scalameter.KeyWithDefault
+/Users/kato/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.7/scala-library-2.11.7.jar -> scala.Double
+internal apis:
+2 items
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwso2RrgABc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAcc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw6466WnQABm5vdGlmeXNxAH4ADLd7app0AAdwYWNrYWdlc3EAfgAM60dllnQABHdhaXRzcQB+AAxFEfvWdAAEdGFza3NxAH4ADFdaVZl0AA0kYXNJbnN0YW5jZU9mc3EAfgAMLZS+xHQAFERlZmF1bHRUYXNrU2NoZWR1bGVyc3EAfgAM/pUpbXQABmVxdWFsc3NxAH4ADE48rut0AAxhc0luc3RhbmNlT2ZzcQB+AAxHd91ldAAMc3luY2hyb25pemVkc3EAfgAMBJ7vw3QADSRpc0luc3RhbmNlT2ZzcQB+AAzWCh9fdAAMZm9ya0pvaW5Qb29sc3EAfgAMNUekVHQACW5vdGlmeUFsbHNxAH4ADHLyoyJ0AAxpc0luc3RhbmNlT2ZzcQB+AAxPOtqWdAAGPGluaXQ+c3EAfgAMQiN1EHQACXNjaGVkdWxlcnNxAH4ADH8bLs50AAI9PXNxAH4ADM05Ry50AA1UYXNrU2NoZWR1bGVyc3EAfgAMHLnUSnQABWNsb25lc3EAfgAMwf8sL3QACHNjaGVkdWxlc3EAfgAMyRmNSnQACHRvU3RyaW5nc3EAfgAM+6VKv3QAAiE9c3EAfgAMiWCwDXQACGdldENsYXNzc3EAfgAM2TMwbXQAAm5lc3EAfgAMYlMrU3QAAmVxc3EAfgAMn/ZIHXQACHBhcmFsbGVsc3EAfgAMYOwlInQAAiMjc3EAfgAMyHKxL3QACGZpbmFsaXplc3EAfgAME2KubXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AT3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQADmNvbW1vbi5wYWNrYWdldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBnc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AE9MAAlpbmhlcml0ZWRxAH4AT0wAB3BhcmVudHNxAH4AT3hxAH4AbHNxAH4AZ3VxAH4ASgAAAABzcQB+AGd1cQB+AEoAAAAAc3EAfgBndXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBrdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBrc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCEdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCFc3EAfgB4dAADQW55c3EAfgB8c3EAfgB/dXEAfgCCAAAAAnNxAH4AhHQABXNjYWxhcQB+AIt1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZjb21tb25zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAXI5rElTdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQANi9Vc2Vycy9rYXRvL0RvY3VtZW50cy9rbWVhbnMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFBn/6WsJyEulZuhmxRusrTswGywR
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwwLme5gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAlc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwzIrVZHQABm5vdGlmeXNxAH4ADJmn8Eh0AAF4c3EAfgAMMgHtZXQABHdhaXRzcQB+AAyxAZBKdAANJGFzSW5zdGFuY2VPZnNxAH4ADDvQX390AAZlcXVhbHNzcQB+AAz/0LrxdAABeXNxAH4ADAICR3l0AAxhc0luc3RhbmNlT2ZzcQB+AAzFJBtTdAAFUG9pbnRzcQB+AAzmIDFadAAMc3luY2hyb25pemVkc3EAfgAMiquN5HQADSRpc0luc3RhbmNlT2ZzcQB+AAzcpomZdAAPaW5pdGlhbGl6ZU1lYW5zc3EAfgAMqsIJo3QABG1haW5zcQB+AAy/MK4OdAAJbm90aWZ5QWxsc3EAfgAMhId6kXQAC2ZpbmRBdmVyYWdlc3EAfgAMRU6YBnQACWNvbnZlcmdlZHNxAH4ADL3aIUZ0AAxpc0luc3RhbmNlT2ZzcQB+AAwpfeu/dAAGPGluaXQ+c3EAfgAMIIfTaHQAAj09c3EAfgAMPn6QaXQABWNsb25lc3EAfgAMwbu3e3QADnNxdWFyZURpc3RhbmNlc3EAfgAMA1cLWHQABiRpbml0JHNxAH4ADLYeLKl0AAZLTWVhbnNzcQB+AAz67hFXdAAIdG9TdHJpbmdzcQB+AAymjjAYdAAOc3RhbmRhcmRDb25maWdzcQB+AAy4Te8pdAACIT1zcQB+AAzwBh7udAAIZ2V0Q2xhc3NzcQB+AAw4usbedAAGdXBkYXRlc3EAfgAMvOGoKnQAAm5lc3EAfgAM0NuueHQACGNsYXNzaWZ5c3EAfgAMUPFiknQAAmVxc3EAfgAM07mSgXQABmtNZWFuc3NxAH4ADILZLbF0AAIjI3NxAH4ADNWo5gR0AA5nZW5lcmF0ZVBvaW50c3NxAH4ADLqF+Ad0AAhmaW5hbGl6ZXNxAH4ADK+zzrd0AAtmaW5kQ2xvc2VzdHNxAH4ADNS5Yod0AAF6c3EAfgAMtmz2PnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAA3NyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AYXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQADWttZWFucy5LTWVhbnN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAYc2NhbGEuYW5ub3RhdGlvbi50YWlscmVjc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AHpzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AYUwACWluaGVyaXRlZHEAfgBhTAAHcGFyZW50c3EAfgBheHEAfgB/c3EAfgB6dXEAfgBcAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBicQB+AGt1cQB+AGwAAAAAc3EAfgBuAHEAfgAldXEAfgBxAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AH50AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB+c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCadXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4Ah3hwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AdHQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AjlsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AfnNxAH4AjXQABUFycmF5cQB+AJN1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AjXQABlN0cmluZ3NxAH4AkXNxAH4AlHVxAH4AlwAAAANzcQB+AJl0AARqYXZhc3EAfgCZdAAEbGFuZ3EAfgCec3EAfgB6dXEAfgBcAAAAAHNxAH4AenVxAH4AsgAAAANzcQB+AI10AAZLTWVhbnNzcQB+AJFzcQB+AJR1cQB+AJcAAAACc3EAfgCZdAAGa21lYW5zcQB+AJ5zcQB+AI10AAZPYmplY3RxAH4AtnNxAH4AjXQAA0FueXEAfgCTc3EAfgBecQB+AGt1cQB+AGwAAAAAc3EAfgBuAXQADWttZWFucy5LTWVhbnN1cQB+AHEAAAAAfnEAfgBzdAAFVHJhaXR1cQB+AHcAAAABdAAYc2NhbGEuYW5ub3RhdGlvbi50YWlscmVjc3EAfgB6cQB+AIBzcQB+AHpzcQB+AIJzcQB+AHp1cQB+AFwAAAAAc3EAfgB6dXEAfgBcAAAAAHNxAH4AenVxAH4AsgAAAAJzcQB+AI1xAH4AyXNxAH4AkXNxAH4AlHVxAH4AlwAAAANzcQB+AJlxAH4AunNxAH4AmXEAfgC8cQB+AJ5zcQB+AI1xAH4Ay3NxAH4AkXNxAH4AlHVxAH4AlwAAAAJzcQB+AJlxAH4AnHEAfgCec3EAfgBecQB+AGt1cQB+AGwAAAAAc3EAfgBuAHQADGttZWFucy5Qb2ludHVxAH4AcQAAAAB+cQB+AHN0AAhDbGFzc0RlZnVxAH4AdwAAAABzcQB+AHpxAH4AgHNxAH4AenNxAH4AgnNxAH4AenVxAH4AXAAAAABzcQB+AHp1cQB+AFwAAAAAc3EAfgB6dXEAfgCyAAAAAnNxAH4AjXEAfgDJc3EAfgCRc3EAfgCUdXEAfgCXAAAAA3NxAH4AmXEAfgC6c3EAfgCZcQB+ALxxAH4AnnNxAH4AjXEAfgDLc3EAfgCRc3EAfgCUdXEAfgCXAAAAAnNxAH4AmXEAfgCccQB+AJ51cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAZrbWVhbnNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAXI5rElTdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQANi9Vc2Vycy9rYXRvL0RvY3VtZW50cy9rbWVhbnMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFI6Z4Za/Hc6A8s0ZnSs4XA8/NHEO
+external apis:
+0 items
+source infos:
+2 items
+/Users/kato/Documents/kmeans/src/main/scala/common/package.scala -> 
+AAAAAAAAAAA=
+/Users/kato/Documents/kmeans/src/main/scala/kmeans/KMeans.scala -> 
+AAAAAQAAAQAAAAgAHm9iamVjdCBLTWVhbnMgZXh0ZW5kcyBLTWVhbnMgewEAAACDAQAAAAcBAAcgICAgICAgAQA/L1VzZXJzL2thdG8vRG9jdW1lbnRzL2ttZWFucy9zcmMvbWFpbi9zY2FsYS9rbWVhbnMvS01lYW5zLnNjYWxhAQA/L1VzZXJzL2thdG8vRG9jdW1lbnRzL2ttZWFucy9zcmMvbWFpbi9zY2FsYS9rbWVhbnMvS01lYW5zLnNjYWxhAMBLTWVhbnMgaGFzIGEgbWFpbiBtZXRob2Qgd2l0aCBwYXJhbWV0ZXIgdHlwZSBBcnJheVtTdHJpbmddLCBidXQga21lYW5zLktNZWFucyB3aWxsIG5vdCBiZSBhIHJ1bm5hYmxlIHByb2dyYW0uCiAgUmVhc29uOiBjb21wYW5pb24gaXMgYSB0cmFpdCwgd2hpY2ggbWVhbnMgbm8gc3RhdGljIGZvcndhcmRlciBjYW4gYmUgZ2VuZXJhdGVkLgoBAAAAAA==
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABblR+TN51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANi9Vc2Vycy9rYXRvL0RvY3VtZW50cy9rbWVhbnMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABcjmsSVN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANi9Vc2Vycy9rYXRvL0RvY3VtZW50cy9rbWVhbnMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
